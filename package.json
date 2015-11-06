@@ -1,0 +1,22 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "common javascript utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epferrari/js-utils.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Ethan Ferrari <ethan@ethan.ferrari.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epferrari/js-utils/issues"
+  },
+  "homepage": "https://github.com/epferrari/js-utils#readme"
+}
